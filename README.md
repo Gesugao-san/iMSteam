@@ -30,7 +30,7 @@ Or manual installation
 ### Firefox Extension (Recommended)
 Search for "iMSteam" in Firefox's web store or head over to this [link](https://addons.mozilla.org/en-US/firefox/addon/imsteam/)
  
-Or manual installation:  [iMSteam for Firefox](https://github.com/iMAboud/iMSteam/raw/main/iMSteam%20-%20Firefox.rar)
+Or manual installation:  [iMSteam for Firefox](https://github.com/iMAboud/iMSteam/raw/main/iMSteam-Firefox.zip)
 
 
 ## Installation via Tampermonkey 
